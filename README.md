@@ -15,9 +15,9 @@ Here is the Miuul website: https://learning.miuul.com/
 
 Also I have a lot of courses from Udemy : 
 
-https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
-https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/
-https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/
+- https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/
+- https://www.udemy.com/course/python-data-science-machine-learning-bootcamp/
+- https://www.udemy.com/course/statistics-for-data-science-and-business-analysis/
 
 
 I just will share my course exercises and their solutions in this repository. I would like to thank Miuul Team, Pierian Data, and App Brewery for supporting my learning process.
